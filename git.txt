@@ -1,2 +1,2 @@
 this is my first commit
-
+change after teh git config 
