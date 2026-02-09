@@ -1,2 +1,24 @@
-this is my first commit
-change after teh git config 
+This is an git summary notes
+
+-> Git Commands
+
+- git commit
+- git log 
+- git status 
+- git status -s 
+- git checkout 
+- git commit -a -m ""
+- git branch 
+- git branch <branch name to create>
+- git cherypick
+- git add
+- git tag
+- git stats
+- git pull
+- git fetch
+- git clone
+- git reflog
+- git reset 
+- git HEAD~<NUMNER OF COMMIT FORM LAST>
+- git rebase
+- git branch -d
